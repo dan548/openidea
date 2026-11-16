@@ -1,0 +1,2234 @@
+{
+  "original": {
+    "total": 36,
+    "passed": 33,
+    "failed": 3,
+    "scannerCalls": 0,
+    "cases": [
+      {
+        "title": "centres the visible caret during split navigation (aligned=false, pane=0)",
+        "repeat": 0,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1200,
+                "to": 2859
+              },
+              "head": 1980,
+              "words": []
+            },
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1200,
+                "to": 2861
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=false, pane=1)",
+        "repeat": 0,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1200,
+                "to": 2859
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1200,
+                "to": 2861
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=true, pane=0)",
+        "repeat": 0,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1200,
+                "to": 2859
+              },
+              "head": 1980,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1200,
+                "to": 2861
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=true, pane=1)",
+        "repeat": 0,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1200,
+                "to": 2859
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1200,
+                "to": 2861
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=false, pane=1)",
+        "repeat": 0,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1500,
+                "to": 3189
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1500,
+                "to": 3191
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=false, pane=0)",
+        "repeat": 0,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1500,
+                "to": 3189
+              },
+              "head": 1980,
+              "words": []
+            },
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1500,
+                "to": 3191
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=true, pane=0)",
+        "repeat": 0,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1500,
+                "to": 3189
+              },
+              "head": 1980,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1500,
+                "to": 3191
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=true, pane=1)",
+        "repeat": 0,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1500,
+                "to": 3189
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1500,
+                "to": 3191
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "scattered edits, inserts and deletes (unified)",
+        "repeat": 0,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 222394,
+              "viewport": {
+                "from": 517215,
+                "to": 520145
+              },
+              "head": 513592,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "scattered edits, inserts and deletes (collapsed)",
+        "repeat": 0,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 434014,
+                "to": 519029
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 435102,
+                "to": 520145
+              },
+              "head": 513592,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=false, pane=0)",
+        "repeat": 1,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1200,
+                "to": 2859
+              },
+              "head": 1980,
+              "words": []
+            },
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1200,
+                "to": 2861
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=false, pane=1)",
+        "repeat": 1,
+        "status": "failed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1200,
+                "to": 2859
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1200,
+                "to": 2861
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=true, pane=0)",
+        "repeat": 1,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1200,
+                "to": 2859
+              },
+              "head": 1980,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1200,
+                "to": 2861
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "scattered edits, inserts and deletes (padded)",
+        "repeat": 0,
+        "status": "failed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 0,
+                "to": 1630
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 0,
+                "to": 1630
+              },
+              "head": 5818,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=true, pane=1)",
+        "repeat": 1,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1200,
+                "to": 2859
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1200,
+                "to": 2861
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "scattered edits, inserts and deletes (sync scrolling)",
+        "repeat": 0,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 219278,
+              "viewport": {
+                "from": 516099,
+                "to": 519029
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 221478,
+              "viewport": {
+                "from": 517215,
+                "to": 520145
+              },
+              "head": 513592,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=false, pane=0)",
+        "repeat": 1,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1500,
+                "to": 3189
+              },
+              "head": 1980,
+              "words": []
+            },
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1500,
+                "to": 3191
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=false, pane=1)",
+        "repeat": 1,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1500,
+                "to": 3189
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1500,
+                "to": 3191
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=true, pane=0)",
+        "repeat": 1,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1500,
+                "to": 3189
+              },
+              "head": 1980,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1500,
+                "to": 3191
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=true, pane=1)",
+        "repeat": 1,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1500,
+                "to": 3189
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1500,
+                "to": 3191
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "scattered edits, inserts and deletes (padded)",
+        "repeat": 1,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 516099,
+                "to": 519029
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 517215,
+                "to": 520145
+              },
+              "head": 513592,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "scattered edits, inserts and deletes (unified)",
+        "repeat": 1,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 222397,
+              "viewport": {
+                "from": 517215,
+                "to": 520145
+              },
+              "head": 513592,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "scattered edits, inserts and deletes (sync scrolling)",
+        "repeat": 1,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 219276,
+              "viewport": {
+                "from": 516099,
+                "to": 519029
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 221476,
+              "viewport": {
+                "from": 517215,
+                "to": 520145
+              },
+              "head": 513592,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "scattered edits, inserts and deletes (collapsed)",
+        "repeat": 1,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 434014,
+                "to": 519029
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 435102,
+                "to": 520145
+              },
+              "head": 513592,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=false, pane=0)",
+        "repeat": 2,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1200,
+                "to": 2859
+              },
+              "head": 1980,
+              "words": []
+            },
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1200,
+                "to": 2861
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=false, pane=1)",
+        "repeat": 2,
+        "status": "failed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 8450,
+              "viewport": {
+                "from": 7722,
+                "to": 9459
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 7724,
+                "to": 9463
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=true, pane=0)",
+        "repeat": 2,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1200,
+                "to": 2859
+              },
+              "head": 1980,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1200,
+                "to": 2861
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=true, pane=1)",
+        "repeat": 2,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1200,
+                "to": 2859
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 7724,
+                "to": 9463
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=false, pane=0)",
+        "repeat": 2,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1500,
+                "to": 3189
+              },
+              "head": 1980,
+              "words": []
+            },
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1500,
+                "to": 3191
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=false, pane=1)",
+        "repeat": 2,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1500,
+                "to": 3189
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1500,
+                "to": 3191
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=true, pane=0)",
+        "repeat": 2,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1500,
+                "to": 3189
+              },
+              "head": 1980,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1500,
+                "to": 3191
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=true, pane=1)",
+        "repeat": 2,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1500,
+                "to": 3189
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1500,
+                "to": 3191
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "scattered edits, inserts and deletes (padded)",
+        "repeat": 2,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 516099,
+                "to": 519029
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 517215,
+                "to": 520145
+              },
+              "head": 513592,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "scattered edits, inserts and deletes (unified)",
+        "repeat": 2,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 222405,
+              "viewport": {
+                "from": 517215,
+                "to": 520145
+              },
+              "head": 513592,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "scattered edits, inserts and deletes (collapsed)",
+        "repeat": 2,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 434014,
+                "to": 519029
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 435102,
+                "to": 520145
+              },
+              "head": 513592,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "scattered edits, inserts and deletes (sync scrolling)",
+        "repeat": 2,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 219278,
+              "viewport": {
+                "from": 516099,
+                "to": 519029
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 221478,
+              "viewport": {
+                "from": 517215,
+                "to": 520145
+              },
+              "head": 513592,
+              "words": []
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "fixed": {
+    "total": 36,
+    "passed": 31,
+    "failed": 5,
+    "scannerCalls": 0,
+    "cases": [
+      {
+        "title": "centres the visible caret during split navigation (aligned=false, pane=0)",
+        "repeat": 0,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1200,
+                "to": 2859
+              },
+              "head": 1980,
+              "words": []
+            },
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 7724,
+                "to": 9463
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=false, pane=1)",
+        "repeat": 0,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1200,
+                "to": 2859
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1200,
+                "to": 2861
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=true, pane=0)",
+        "repeat": 0,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1200,
+                "to": 2859
+              },
+              "head": 1980,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1200,
+                "to": 2861
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=true, pane=1)",
+        "repeat": 0,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1200,
+                "to": 2859
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1200,
+                "to": 2861
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=false, pane=0)",
+        "repeat": 0,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1500,
+                "to": 3189
+              },
+              "head": 1980,
+              "words": []
+            },
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1500,
+                "to": 3191
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=false, pane=1)",
+        "repeat": 0,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1500,
+                "to": 3189
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1500,
+                "to": 3191
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=true, pane=1)",
+        "repeat": 0,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1500,
+                "to": 3189
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1500,
+                "to": 3191
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=true, pane=0)",
+        "repeat": 0,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1500,
+                "to": 3189
+              },
+              "head": 1980,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1500,
+                "to": 3191
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "scattered edits, inserts and deletes (unified)",
+        "repeat": 0,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 222402,
+              "viewport": {
+                "from": 517215,
+                "to": 520145
+              },
+              "head": 513592,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "scattered edits, inserts and deletes (collapsed)",
+        "repeat": 0,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 434014,
+                "to": 519029
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 435102,
+                "to": 520145
+              },
+              "head": 513592,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=false, pane=0)",
+        "repeat": 1,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1200,
+                "to": 2859
+              },
+              "head": 1980,
+              "words": []
+            },
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1200,
+                "to": 2861
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=false, pane=1)",
+        "repeat": 1,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1200,
+                "to": 2859
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1200,
+                "to": 2861
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "scattered edits, inserts and deletes (padded)",
+        "repeat": 0,
+        "status": "failed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 0,
+                "to": 1630
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 0,
+                "to": 1630
+              },
+              "head": 5818,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=true, pane=0)",
+        "repeat": 1,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1200,
+                "to": 2859
+              },
+              "head": 1980,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1200,
+                "to": 2861
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=true, pane=1)",
+        "repeat": 1,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 7722,
+                "to": 9459
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 7724,
+                "to": 9463
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "scattered edits, inserts and deletes (sync scrolling)",
+        "repeat": 0,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 219276,
+              "viewport": {
+                "from": 516099,
+                "to": 519029
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 221476,
+              "viewport": {
+                "from": 517215,
+                "to": 520145
+              },
+              "head": 513592,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=false, pane=0)",
+        "repeat": 1,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1500,
+                "to": 3189
+              },
+              "head": 1980,
+              "words": []
+            },
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1500,
+                "to": 3191
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=false, pane=1)",
+        "repeat": 1,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1500,
+                "to": 3189
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1500,
+                "to": 3191
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=true, pane=0)",
+        "repeat": 1,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1500,
+                "to": 3189
+              },
+              "head": 1980,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1500,
+                "to": 3191
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=true, pane=1)",
+        "repeat": 1,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1500,
+                "to": 3189
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1500,
+                "to": 3191
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "scattered edits, inserts and deletes (unified)",
+        "repeat": 1,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 222405,
+              "viewport": {
+                "from": 517215,
+                "to": 520145
+              },
+              "head": 513592,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "scattered edits, inserts and deletes (collapsed)",
+        "repeat": 1,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 434014,
+                "to": 519029
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 435102,
+                "to": 520145
+              },
+              "head": 513592,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=false, pane=0)",
+        "repeat": 2,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1200,
+                "to": 2859
+              },
+              "head": 1980,
+              "words": []
+            },
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1200,
+                "to": 2861
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=false, pane=1)",
+        "repeat": 2,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1200,
+                "to": 2859
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1200,
+                "to": 2861
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "scattered edits, inserts and deletes (padded)",
+        "repeat": 1,
+        "status": "failed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 0,
+                "to": 1630
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 0,
+                "to": 1630
+              },
+              "head": 5818,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=true, pane=0)",
+        "repeat": 2,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1200,
+                "to": 2859
+              },
+              "head": 1980,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1200,
+                "to": 2861
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=true, pane=1)",
+        "repeat": 2,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1200,
+                "to": 2859
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1200,
+                "to": 2861
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "scattered edits, inserts and deletes (sync scrolling)",
+        "repeat": 1,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 219276,
+              "viewport": {
+                "from": 516099,
+                "to": 519029
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 221476,
+              "viewport": {
+                "from": 517215,
+                "to": 520145
+              },
+              "head": 513592,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=false, pane=0)",
+        "repeat": 2,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1500,
+                "to": 3189
+              },
+              "head": 1980,
+              "words": []
+            },
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1500,
+                "to": 3191
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=false, pane=1)",
+        "repeat": 2,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1500,
+                "to": 3189
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 1850,
+              "viewport": {
+                "from": 1500,
+                "to": 3191
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=true, pane=0)",
+        "repeat": 2,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1500,
+                "to": 3189
+              },
+              "head": 1980,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1500,
+                "to": 3191
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "centres the visible caret during split navigation (aligned=true, pane=1)",
+        "repeat": 2,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1500,
+                "to": 3189
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 1500,
+                "to": 3191
+              },
+              "head": 1980,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "scattered edits, inserts and deletes (unified)",
+        "repeat": 2,
+        "status": "failed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 222425,
+              "viewport": {
+                "from": 517268,
+                "to": 520145
+              },
+              "head": 513592,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "scattered edits, inserts and deletes (padded)",
+        "repeat": 2,
+        "status": "failed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 0,
+                "to": 1630
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 0,
+                "to": 1630
+              },
+              "head": 5818,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "scattered edits, inserts and deletes (collapsed)",
+        "repeat": 2,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 434014,
+                "to": 519029
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 435102,
+                "to": 520145
+              },
+              "head": 513592,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "scattered edits, inserts and deletes (sync scrolling)",
+        "repeat": 2,
+        "status": "failed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 0,
+                "to": 1630
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 0,
+                "to": 1630
+              },
+              "head": 5818,
+              "words": []
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "original-sync": {
+    "total": 6,
+    "passed": 5,
+    "failed": 1,
+    "scannerCalls": 0,
+    "cases": [
+      {
+        "title": "scattered edits, inserts and deletes (sync scrolling)",
+        "repeat": 0,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 219246,
+              "viewport": {
+                "from": 516046,
+                "to": 519029
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 221446,
+              "viewport": {
+                "from": 517162,
+                "to": 520145
+              },
+              "head": 513592,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "scattered edits, inserts and deletes (sync scrolling)",
+        "repeat": 1,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 219291,
+              "viewport": {
+                "from": 516152,
+                "to": 519029
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 221491,
+              "viewport": {
+                "from": 517268,
+                "to": 520145
+              },
+              "head": 513592,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "scattered edits, inserts and deletes (sync scrolling)",
+        "repeat": 2,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 219293,
+              "viewport": {
+                "from": 516152,
+                "to": 519029
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 221493,
+              "viewport": {
+                "from": 517268,
+                "to": 520145
+              },
+              "head": 513592,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "scattered edits, inserts and deletes (sync scrolling)",
+        "repeat": 4,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 219278,
+              "viewport": {
+                "from": 516099,
+                "to": 519029
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 221478,
+              "viewport": {
+                "from": 517215,
+                "to": 520145
+              },
+              "head": 513592,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "scattered edits, inserts and deletes (sync scrolling)",
+        "repeat": 5,
+        "status": "passed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 219253,
+              "viewport": {
+                "from": 516046,
+                "to": 519029
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 221453,
+              "viewport": {
+                "from": 517162,
+                "to": 520145
+              },
+              "head": 513592,
+              "words": []
+            }
+          ]
+        }
+      },
+      {
+        "title": "scattered edits, inserts and deletes (sync scrolling)",
+        "repeat": 3,
+        "status": "failed",
+        "audit": {
+          "loaded": true,
+          "calls": 0,
+          "panes": [
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 0,
+                "to": 1630
+              },
+              "head": 0,
+              "words": []
+            },
+            {
+              "scroll": 0,
+              "viewport": {
+                "from": 0,
+                "to": 1630
+              },
+              "head": 5818,
+              "words": []
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

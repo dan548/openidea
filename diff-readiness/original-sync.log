@@ -1,0 +1,94 @@
+[WebServer] ✓ Lockfile passes supply-chain policies (verified 2d ago)
+[WebServer] Lockfile is up to date, resolution step is skipped
+[WebServer] Already up to date
+[WebServer] Error:   × installing dependencies
+[WebServer]   ╰─▶ Failed to create directory at "/Users/sibraine/Projects/openidea-
+[WebServer]       rainbow-literals/node_modules": workspace hoist directory is not a real
+[WebServer]       directory
+[WebServer] 
+[WebServer] [WARN] The install that runs before scripts failed, so your node_modules may be out of sync with your lockfile. Set "verifyDepsBeforeRun: false" to skip this install.
+[WebServer] (node:17335) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+[WebServer] (Use `node --trace-warnings ...` to show where the warning was created)
+
+Running 6 tests using 2 workers
+
+(node:17348) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:17349) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+[WebServer] 
+[WebServer] A PostCSS plugin did not pass the `from` option to `postcss.parse`. This may cause imported assets to be incorrectly transformed. If you've recently added a PostCSS plugin that raised this warning, please contact the package author to fix the issue.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] 
+[WebServer] - /Users/sibraine/Projects/openidea-rainbow-literals
+[WebServer] - /Users/sibraine/Projects/openidea/node_modules/.pnpm/vite@8.3.4_@types+node@26.6.5_jiti@2.7.0_yaml@2.9.1/node_modules/vite/dist/client
+[WebServer] 
+[WebServer] Refer to docs https://vite.dev/config/server-options.html#server-fs-allow for configurations and more details.
+[WebServer] 
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"scattered edits, inserts and deletes (sync scrolling)","repeat":0,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":219246,"viewport":{"from":516046,"to":519029},"head":0,"words":[]},{"scroll":221446,"viewport":{"from":517162,"to":520145},"head":513592,"words":[]}]}}
+  ✓  1 [chromium] › e2e/diff.spec.ts:287:5 › 10,000-line files › scattered edits, inserts and deletes (sync scrolling) (3.9s)
+(node:17448) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+RAINBOW_AUDIT {"title":"scattered edits, inserts and deletes (sync scrolling)","repeat":1,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":219291,"viewport":{"from":516152,"to":519029},"head":0,"words":[]},{"scroll":221491,"viewport":{"from":517268,"to":520145},"head":513592,"words":[]}]}}
+  ✓  2 [chromium] › e2e/diff.spec.ts:287:5 › 10,000-line files › scattered edits, inserts and deletes (sync scrolling) (4.1s)
+(node:17481) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"scattered edits, inserts and deletes (sync scrolling)","repeat":2,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":219293,"viewport":{"from":516152,"to":519029},"head":0,"words":[]},{"scroll":221493,"viewport":{"from":517268,"to":520145},"head":513592,"words":[]}]}}
+  ✓  3 [chromium] › e2e/diff.spec.ts:287:5 › 10,000-line files › scattered edits, inserts and deletes (sync scrolling) (3.4s)
+(node:17546) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"scattered edits, inserts and deletes (sync scrolling)","repeat":4,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":219278,"viewport":{"from":516099,"to":519029},"head":0,"words":[]},{"scroll":221478,"viewport":{"from":517215,"to":520145},"head":513592,"words":[]}]}}
+  ✓  5 [chromium] › e2e/diff.spec.ts:287:5 › 10,000-line files › scattered edits, inserts and deletes (sync scrolling) (3.2s)
+(node:17592) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"scattered edits, inserts and deletes (sync scrolling)","repeat":5,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":219253,"viewport":{"from":516046,"to":519029},"head":0,"words":[]},{"scroll":221453,"viewport":{"from":517162,"to":520145},"head":513592,"words":[]}]}}
+  ✓  6 [chromium] › e2e/diff.spec.ts:287:5 › 10,000-line files › scattered edits, inserts and deletes (sync scrolling) (2.6s)
+RAINBOW_AUDIT {"title":"scattered edits, inserts and deletes (sync scrolling)","repeat":3,"status":"failed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":0,"viewport":{"from":0,"to":1630},"head":0,"words":[]},{"scroll":0,"viewport":{"from":0,"to":1630},"head":5818,"words":[]}]}}
+  ✘  4 [chromium] › e2e/diff.spec.ts:287:5 › 10,000-line files › scattered edits, inserts and deletes (sync scrolling) (12.3s)
+
+
+  1) [chromium] › e2e/diff.spec.ts:287:5 › 10,000-line files › scattered edits, inserts and deletes (sync scrolling) 
+
+    Error: expect(received).toContainEqual(expected) // deep equality
+
+    Expected value: ["compute", "modified"]
+    Received array: []
+
+    Call Log:
+    - Timeout 10000ms exceeded while waiting on the predicate
+
+      299 |       await expect(counter(page)).toHaveText("1 of 42 differences");
+      300 |       if (opts.mode !== "unified") {
+    > 301 |         await expect.poll(async () => (await rendered(page)).a.words).toContainEqual(["compute", "modified"]);
+          |                                                                       ^
+      302 |         await expect.poll(async () => (await rendered(page)).b.words).toContainEqual(["computeFast", "modified"]);
+      303 |       }
+      304 |       // The last difference is reachable and still highlighted.
+        at /Users/sibraine/Projects/openidea-rainbow-literals/e2e/diff.spec.ts:301:71
+
+    Error Context: test-results/diff-10-000-line-files-sca-ca4a6-and-deletes-sync-scrolling--chromium-repeat3/error-context.md
+
+    Error Context: test-results/diff-10-000-line-files-sca-ca4a6-and-deletes-sync-scrolling--chromium-repeat3/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/diff-10-000-line-files-sca-ca4a6-and-deletes-sync-scrolling--chromium-repeat3/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/diff-10-000-line-files-sca-ca4a6-and-deletes-sync-scrolling--chromium-repeat3/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+  1 failed
+    [chromium] › e2e/diff.spec.ts:287:5 › 10,000-line files › scattered edits, inserts and deletes (sync scrolling) 
+  5 passed (17.9s)

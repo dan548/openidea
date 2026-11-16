@@ -1,0 +1,276 @@
+[WebServer] ✓ Lockfile passes supply-chain policies (verified 2d ago)
+[WebServer] Lockfile is up to date, resolution step is skipped
+[WebServer] Already up to date
+[WebServer] Error: [WebServer]   × installing dependencies
+[WebServer]   ╰─▶ Failed to create directory at "/Users/sibraine/Projects/openidea-
+[WebServer]       rainbow-literals/node_modules": workspace hoist directory is not a real
+[WebServer]       directory
+[WebServer] 
+[WebServer] [WARN] The install that runs before scripts failed, so your node_modules may be out of sync with your lockfile. Set "verifyDepsBeforeRun: false" to skip this install.
+[WebServer] (node:15238) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+[WebServer] (Use `node --trace-warnings ...` to show where the warning was created)
+
+Running 36 tests using 2 workers
+
+(node:15252) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:15251) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+[WebServer] 
+[WebServer] A PostCSS plugin did not pass the `from` option to `postcss.parse`. This may cause imported assets to be incorrectly transformed. If you've recently added a PostCSS plugin that raised this warning, please contact the package author to fix the issue.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] 
+[WebServer] - /Users/sibraine/Projects/openidea-rainbow-literals
+[WebServer] - /Users/sibraine/Projects/openidea/node_modules/.pnpm/vite@8.3.4_@types+node@26.6.5_jiti@2.7.0_yaml@2.9.1/node_modules/vite/dist/client
+[WebServer] 
+[WebServer] Refer to docs https://vite.dev/config/server-options.html#server-fs-allow for configurations and more details.
+[WebServer] 
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"centres the visible caret during split navigation (aligned=false, pane=0)","repeat":0,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":1850,"viewport":{"from":1200,"to":2859},"head":1980,"words":[]},{"scroll":1850,"viewport":{"from":1200,"to":2861},"head":1980,"words":[]}]}}
+  ✓   2 [chromium] › e2e/diff-navigation.spec.ts:111:7 › caret navigation with reducedMotion=reduce › centres the visible caret during split navigation (aligned=false, pane=0) (3.1s)
+RAINBOW_AUDIT {"title":"centres the visible caret during split navigation (aligned=false, pane=1)","repeat":0,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":1850,"viewport":{"from":1200,"to":2859},"head":0,"words":[]},{"scroll":1850,"viewport":{"from":1200,"to":2861},"head":1980,"words":[]}]}}
+  ✓   1 [chromium] › e2e/diff-navigation.spec.ts:111:7 › caret navigation with reducedMotion=reduce › centres the visible caret during split navigation (aligned=false, pane=1) (3.2s)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"centres the visible caret during split navigation (aligned=true, pane=0)","repeat":0,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":0,"viewport":{"from":1200,"to":2859},"head":1980,"words":[]},{"scroll":0,"viewport":{"from":1200,"to":2861},"head":1980,"words":[]}]}}
+  ✓   3 [chromium] › e2e/diff-navigation.spec.ts:111:7 › caret navigation with reducedMotion=reduce › centres the visible caret during split navigation (aligned=true, pane=0) (2.4s)
+RAINBOW_AUDIT {"title":"centres the visible caret during split navigation (aligned=true, pane=1)","repeat":0,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":0,"viewport":{"from":1200,"to":2859},"head":0,"words":[]},{"scroll":0,"viewport":{"from":1200,"to":2861},"head":1980,"words":[]}]}}
+  ✓   4 [chromium] › e2e/diff-navigation.spec.ts:111:7 › caret navigation with reducedMotion=reduce › centres the visible caret during split navigation (aligned=true, pane=1) (2.3s)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"centres the visible caret during split navigation (aligned=false, pane=1)","repeat":0,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":1850,"viewport":{"from":1500,"to":3189},"head":0,"words":[]},{"scroll":1850,"viewport":{"from":1500,"to":3191},"head":1980,"words":[]}]}}
+  ✓   6 [chromium] › e2e/diff-navigation.spec.ts:111:7 › caret navigation with reducedMotion=no-preference › centres the visible caret during split navigation (aligned=false, pane=1) (10.8s)
+RAINBOW_AUDIT {"title":"centres the visible caret during split navigation (aligned=false, pane=0)","repeat":0,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":1850,"viewport":{"from":1500,"to":3189},"head":1980,"words":[]},{"scroll":1850,"viewport":{"from":1500,"to":3191},"head":1980,"words":[]}]}}
+  ✓   5 [chromium] › e2e/diff-navigation.spec.ts:111:7 › caret navigation with reducedMotion=no-preference › centres the visible caret during split navigation (aligned=false, pane=0) (10.9s)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"centres the visible caret during split navigation (aligned=true, pane=0)","repeat":0,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":0,"viewport":{"from":1500,"to":3189},"head":1980,"words":[]},{"scroll":0,"viewport":{"from":1500,"to":3191},"head":1980,"words":[]}]}}
+  ✓   7 [chromium] › e2e/diff-navigation.spec.ts:111:7 › caret navigation with reducedMotion=no-preference › centres the visible caret during split navigation (aligned=true, pane=0) (10.9s)
+RAINBOW_AUDIT {"title":"centres the visible caret during split navigation (aligned=true, pane=1)","repeat":0,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":0,"viewport":{"from":1500,"to":3189},"head":0,"words":[]},{"scroll":0,"viewport":{"from":1500,"to":3191},"head":1980,"words":[]}]}}
+  ✓   8 [chromium] › e2e/diff-navigation.spec.ts:111:7 › caret navigation with reducedMotion=no-preference › centres the visible caret during split navigation (aligned=true, pane=1) (10.9s)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"scattered edits, inserts and deletes (unified)","repeat":0,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":222394,"viewport":{"from":517215,"to":520145},"head":513592,"words":[]}]}}
+  ✓  10 [chromium] › e2e/diff.spec.ts:287:5 › 10,000-line files › scattered edits, inserts and deletes (unified) (2.4s)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"scattered edits, inserts and deletes (collapsed)","repeat":0,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":0,"viewport":{"from":434014,"to":519029},"head":0,"words":[]},{"scroll":0,"viewport":{"from":435102,"to":520145},"head":513592,"words":[]}]}}
+  ✓  11 [chromium] › e2e/diff.spec.ts:287:5 › 10,000-line files › scattered edits, inserts and deletes (collapsed) (2.5s)
+(node:15455) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"centres the visible caret during split navigation (aligned=false, pane=0)","repeat":1,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":1850,"viewport":{"from":1200,"to":2859},"head":1980,"words":[]},{"scroll":1850,"viewport":{"from":1200,"to":2861},"head":1980,"words":[]}]}}
+  ✓  12 [chromium] › e2e/diff-navigation.spec.ts:111:7 › caret navigation with reducedMotion=reduce › centres the visible caret during split navigation (aligned=false, pane=0) (2.3s)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"centres the visible caret during split navigation (aligned=false, pane=1)","repeat":1,"status":"failed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":1850,"viewport":{"from":1200,"to":2859},"head":0,"words":[]},{"scroll":1850,"viewport":{"from":1200,"to":2861},"head":1980,"words":[]}]}}
+  ✘  13 [chromium] › e2e/diff-navigation.spec.ts:111:7 › caret navigation with reducedMotion=reduce › centres the visible caret during split navigation (aligned=false, pane=1) (1.8s)
+(node:15475) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"centres the visible caret during split navigation (aligned=true, pane=0)","repeat":1,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":0,"viewport":{"from":1200,"to":2859},"head":1980,"words":[]},{"scroll":0,"viewport":{"from":1200,"to":2861},"head":1980,"words":[]}]}}
+  ✓  14 [chromium] › e2e/diff-navigation.spec.ts:111:7 › caret navigation with reducedMotion=reduce › centres the visible caret during split navigation (aligned=true, pane=0) (2.3s)
+RAINBOW_AUDIT {"title":"scattered edits, inserts and deletes (padded)","repeat":0,"status":"failed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":0,"viewport":{"from":0,"to":1630},"head":0,"words":[]},{"scroll":0,"viewport":{"from":0,"to":1630},"head":5818,"words":[]}]}}
+  ✘   9 [chromium] › e2e/diff.spec.ts:287:5 › 10,000-line files › scattered edits, inserts and deletes (padded) (12.4s)
+(node:15490) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"centres the visible caret during split navigation (aligned=true, pane=1)","repeat":1,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":0,"viewport":{"from":1200,"to":2859},"head":0,"words":[]},{"scroll":0,"viewport":{"from":1200,"to":2861},"head":1980,"words":[]}]}}
+  ✓  15 [chromium] › e2e/diff-navigation.spec.ts:111:7 › caret navigation with reducedMotion=reduce › centres the visible caret during split navigation (aligned=true, pane=1) (2.2s)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"scattered edits, inserts and deletes (sync scrolling)","repeat":0,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":219278,"viewport":{"from":516099,"to":519029},"head":0,"words":[]},{"scroll":221478,"viewport":{"from":517215,"to":520145},"head":513592,"words":[]}]}}
+  ✓  16 [chromium] › e2e/diff.spec.ts:287:5 › 10,000-line files › scattered edits, inserts and deletes (sync scrolling) (3.2s)
+(node:15537) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"centres the visible caret during split navigation (aligned=false, pane=0)","repeat":1,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":1850,"viewport":{"from":1500,"to":3189},"head":1980,"words":[]},{"scroll":1850,"viewport":{"from":1500,"to":3191},"head":1980,"words":[]}]}}
+  ✓  17 [chromium] › e2e/diff-navigation.spec.ts:111:7 › caret navigation with reducedMotion=no-preference › centres the visible caret during split navigation (aligned=false, pane=0) (10.7s)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"centres the visible caret during split navigation (aligned=false, pane=1)","repeat":1,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":1850,"viewport":{"from":1500,"to":3189},"head":0,"words":[]},{"scroll":1850,"viewport":{"from":1500,"to":3191},"head":1980,"words":[]}]}}
+  ✓  18 [chromium] › e2e/diff-navigation.spec.ts:111:7 › caret navigation with reducedMotion=no-preference › centres the visible caret during split navigation (aligned=false, pane=1) (10.7s)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"centres the visible caret during split navigation (aligned=true, pane=0)","repeat":1,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":0,"viewport":{"from":1500,"to":3189},"head":1980,"words":[]},{"scroll":0,"viewport":{"from":1500,"to":3191},"head":1980,"words":[]}]}}
+  ✓  19 [chromium] › e2e/diff-navigation.spec.ts:111:7 › caret navigation with reducedMotion=no-preference › centres the visible caret during split navigation (aligned=true, pane=0) (10.7s)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"centres the visible caret during split navigation (aligned=true, pane=1)","repeat":1,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":0,"viewport":{"from":1500,"to":3189},"head":0,"words":[]},{"scroll":0,"viewport":{"from":1500,"to":3191},"head":1980,"words":[]}]}}
+  ✓  20 [chromium] › e2e/diff-navigation.spec.ts:111:7 › caret navigation with reducedMotion=no-preference › centres the visible caret during split navigation (aligned=true, pane=1) (10.6s)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"scattered edits, inserts and deletes (padded)","repeat":1,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":0,"viewport":{"from":516099,"to":519029},"head":0,"words":[]},{"scroll":0,"viewport":{"from":517215,"to":520145},"head":513592,"words":[]}]}}
+  ✓  21 [chromium] › e2e/diff.spec.ts:287:5 › 10,000-line files › scattered edits, inserts and deletes (padded) (3.2s)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"scattered edits, inserts and deletes (unified)","repeat":1,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":222397,"viewport":{"from":517215,"to":520145},"head":513592,"words":[]}]}}
+  ✓  22 [chromium] › e2e/diff.spec.ts:287:5 › 10,000-line files › scattered edits, inserts and deletes (unified) (2.7s)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"scattered edits, inserts and deletes (sync scrolling)","repeat":1,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":219276,"viewport":{"from":516099,"to":519029},"head":0,"words":[]},{"scroll":221476,"viewport":{"from":517215,"to":520145},"head":513592,"words":[]}]}}
+  ✓  23 [chromium] › e2e/diff.spec.ts:287:5 › 10,000-line files › scattered edits, inserts and deletes (sync scrolling) (3.2s)
+(node:15682) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"scattered edits, inserts and deletes (collapsed)","repeat":1,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":0,"viewport":{"from":434014,"to":519029},"head":0,"words":[]},{"scroll":0,"viewport":{"from":435102,"to":520145},"head":513592,"words":[]}]}}
+  ✓  24 [chromium] › e2e/diff.spec.ts:287:5 › 10,000-line files › scattered edits, inserts and deletes (collapsed) (2.6s)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+(node:15698) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"centres the visible caret during split navigation (aligned=false, pane=0)","repeat":2,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":1850,"viewport":{"from":1200,"to":2859},"head":1980,"words":[]},{"scroll":1850,"viewport":{"from":1200,"to":2861},"head":1980,"words":[]}]}}
+  ✓  25 [chromium] › e2e/diff-navigation.spec.ts:111:7 › caret navigation with reducedMotion=reduce › centres the visible caret during split navigation (aligned=false, pane=0) (2.3s)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"centres the visible caret during split navigation (aligned=false, pane=1)","repeat":2,"status":"failed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":8450,"viewport":{"from":7722,"to":9459},"head":0,"words":[]},{"scroll":1850,"viewport":{"from":7724,"to":9463},"head":1980,"words":[]}]}}
+  ✘  26 [chromium] › e2e/diff-navigation.spec.ts:111:7 › caret navigation with reducedMotion=reduce › centres the visible caret during split navigation (aligned=false, pane=1) (2.3s)
+(node:15715) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"centres the visible caret during split navigation (aligned=true, pane=0)","repeat":2,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":0,"viewport":{"from":1200,"to":2859},"head":1980,"words":[]},{"scroll":0,"viewport":{"from":1200,"to":2861},"head":1980,"words":[]}]}}
+  ✓  27 [chromium] › e2e/diff-navigation.spec.ts:111:7 › caret navigation with reducedMotion=reduce › centres the visible caret during split navigation (aligned=true, pane=0) (2.3s)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"centres the visible caret during split navigation (aligned=true, pane=1)","repeat":2,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":0,"viewport":{"from":1200,"to":2859},"head":0,"words":[]},{"scroll":0,"viewport":{"from":7724,"to":9463},"head":1980,"words":[]}]}}
+  ✓  28 [chromium] › e2e/diff-navigation.spec.ts:111:7 › caret navigation with reducedMotion=reduce › centres the visible caret during split navigation (aligned=true, pane=1) (1.8s)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"centres the visible caret during split navigation (aligned=false, pane=0)","repeat":2,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":1850,"viewport":{"from":1500,"to":3189},"head":1980,"words":[]},{"scroll":1850,"viewport":{"from":1500,"to":3191},"head":1980,"words":[]}]}}
+  ✓  29 [chromium] › e2e/diff-navigation.spec.ts:111:7 › caret navigation with reducedMotion=no-preference › centres the visible caret during split navigation (aligned=false, pane=0) (10.7s)
+RAINBOW_AUDIT {"title":"centres the visible caret during split navigation (aligned=false, pane=1)","repeat":2,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":1850,"viewport":{"from":1500,"to":3189},"head":0,"words":[]},{"scroll":1850,"viewport":{"from":1500,"to":3191},"head":1980,"words":[]}]}}
+  ✓  30 [chromium] › e2e/diff-navigation.spec.ts:111:7 › caret navigation with reducedMotion=no-preference › centres the visible caret during split navigation (aligned=false, pane=1) (10.2s)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"centres the visible caret during split navigation (aligned=true, pane=0)","repeat":2,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":0,"viewport":{"from":1500,"to":3189},"head":1980,"words":[]},{"scroll":0,"viewport":{"from":1500,"to":3191},"head":1980,"words":[]}]}}
+  ✓  31 [chromium] › e2e/diff-navigation.spec.ts:111:7 › caret navigation with reducedMotion=no-preference › centres the visible caret during split navigation (aligned=true, pane=0) (10.2s)
+RAINBOW_AUDIT {"title":"centres the visible caret during split navigation (aligned=true, pane=1)","repeat":2,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":0,"viewport":{"from":1500,"to":3189},"head":0,"words":[]},{"scroll":0,"viewport":{"from":1500,"to":3191},"head":1980,"words":[]}]}}
+  ✓  32 [chromium] › e2e/diff-navigation.spec.ts:111:7 › caret navigation with reducedMotion=no-preference › centres the visible caret during split navigation (aligned=true, pane=1) (10.2s)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"scattered edits, inserts and deletes (padded)","repeat":2,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":0,"viewport":{"from":516099,"to":519029},"head":0,"words":[]},{"scroll":0,"viewport":{"from":517215,"to":520145},"head":513592,"words":[]}]}}
+  ✓  33 [chromium] › e2e/diff.spec.ts:287:5 › 10,000-line files › scattered edits, inserts and deletes (padded) (2.7s)
+RAINBOW_AUDIT {"title":"scattered edits, inserts and deletes (unified)","repeat":2,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":222405,"viewport":{"from":517215,"to":520145},"head":513592,"words":[]}]}}
+  ✓  34 [chromium] › e2e/diff.spec.ts:287:5 › 10,000-line files › scattered edits, inserts and deletes (unified) (2.7s)
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+inter@5.3.0/node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+[WebServer] The request id "/Users/sibraine/Projects/openidea/node_modules/.pnpm/@fontsource-variable+jetbrains-mono@5.3.0/node_modules/@fontsource-variable/jetbrains-mono/files/jetbrains-mono-latin-wght-normal.woff2" is outside of Vite serving allow list.
+RAINBOW_AUDIT {"title":"scattered edits, inserts and deletes (collapsed)","repeat":2,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":0,"viewport":{"from":434014,"to":519029},"head":0,"words":[]},{"scroll":0,"viewport":{"from":435102,"to":520145},"head":513592,"words":[]}]}}
+  ✓  36 [chromium] › e2e/diff.spec.ts:287:5 › 10,000-line files › scattered edits, inserts and deletes (collapsed) (2.5s)
+RAINBOW_AUDIT {"title":"scattered edits, inserts and deletes (sync scrolling)","repeat":2,"status":"passed","audit":{"loaded":true,"calls":0,"panes":[{"scroll":219278,"viewport":{"from":516099,"to":519029},"head":0,"words":[]},{"scroll":221478,"viewport":{"from":517215,"to":520145},"head":513592,"words":[]}]}}
+  ✓  35 [chromium] › e2e/diff.spec.ts:287:5 › 10,000-line files › scattered edits, inserts and deletes (sync scrolling) (3.2s)
+
+
+  1) [chromium] › e2e/diff-navigation.spec.ts:111:7 › caret navigation with reducedMotion=reduce › centres the visible caret during split navigation (aligned=false, pane=1) 
+
+    Error: expect(received).toBeLessThan(expected)
+
+    Expected: < 2
+    Received:   6600
+
+      163 |               .locator(".cm-scroller")
+      164 |               .evaluateAll((els) => els.map((el) => el.scrollTop));
+    > 165 |             expect(Math.abs(tops[0]! - tops[1]!)).toBeLessThan(2);
+          |                                                   ^
+      166 |           }
+      167 |         };
+      168 |         await toolbar.getByRole("button", { name: "Next Difference", exact: true }).click();
+        at check (/Users/sibraine/Projects/openidea-rainbow-literals/e2e/diff-navigation.spec.ts:165:51)
+        at /Users/sibraine/Projects/openidea-rainbow-literals/e2e/diff-navigation.spec.ts:177:9
+
+    Error Context: test-results/diff-navigation-caret-navi-c66fd-ation-aligned-false-pane-1--chromium-repeat1/error-context.md
+
+    attachment #2: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/diff-navigation-caret-navi-c66fd-ation-aligned-false-pane-1--chromium-repeat1/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/diff-navigation-caret-navi-c66fd-ation-aligned-false-pane-1--chromium-repeat1/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+  2) [chromium] › e2e/diff-navigation.spec.ts:111:7 › caret navigation with reducedMotion=reduce › centres the visible caret during split navigation (aligned=false, pane=1) 
+
+    Error: expect(received).toBeLessThan(expected)
+
+    Expected: < 2
+    Received:   6600
+
+      163 |               .locator(".cm-scroller")
+      164 |               .evaluateAll((els) => els.map((el) => el.scrollTop));
+    > 165 |             expect(Math.abs(tops[0]! - tops[1]!)).toBeLessThan(2);
+          |                                                   ^
+      166 |           }
+      167 |         };
+      168 |         await toolbar.getByRole("button", { name: "Next Difference", exact: true }).click();
+        at check (/Users/sibraine/Projects/openidea-rainbow-literals/e2e/diff-navigation.spec.ts:165:51)
+        at /Users/sibraine/Projects/openidea-rainbow-literals/e2e/diff-navigation.spec.ts:177:9
+
+    Error Context: test-results/diff-navigation-caret-navi-c66fd-ation-aligned-false-pane-1--chromium-repeat2/error-context.md
+
+    attachment #2: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/diff-navigation-caret-navi-c66fd-ation-aligned-false-pane-1--chromium-repeat2/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/diff-navigation-caret-navi-c66fd-ation-aligned-false-pane-1--chromium-repeat2/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+  3) [chromium] › e2e/diff.spec.ts:287:5 › 10,000-line files › scattered edits, inserts and deletes (padded) 
+
+    Error: expect(received).toContainEqual(expected) // deep equality
+
+    Expected value: ["compute", "modified"]
+    Received array: []
+
+    Call Log:
+    - Timeout 10000ms exceeded while waiting on the predicate
+
+      299 |       await expect(counter(page)).toHaveText("1 of 42 differences");
+      300 |       if (opts.mode !== "unified") {
+    > 301 |         await expect.poll(async () => (await rendered(page)).a.words).toContainEqual(["compute", "modified"]);
+          |                                                                       ^
+      302 |         await expect.poll(async () => (await rendered(page)).b.words).toContainEqual(["computeFast", "modified"]);
+      303 |       }
+      304 |       // The last difference is reachable and still highlighted.
+        at /Users/sibraine/Projects/openidea-rainbow-literals/e2e/diff.spec.ts:301:71
+
+    Error Context: test-results/diff-10-000-line-files-sca-cc5e0-inserts-and-deletes-padded--chromium/error-context.md
+
+    Error Context: test-results/diff-10-000-line-files-sca-cc5e0-inserts-and-deletes-padded--chromium/error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/diff-10-000-line-files-sca-cc5e0-inserts-and-deletes-padded--chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/diff-10-000-line-files-sca-cc5e0-inserts-and-deletes-padded--chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+  3 failed
+    [chromium] › e2e/diff-navigation.spec.ts:111:7 › caret navigation with reducedMotion=reduce › centres the visible caret during split navigation (aligned=false, pane=1) 
+    [chromium] › e2e/diff-navigation.spec.ts:111:7 › caret navigation with reducedMotion=reduce › centres the visible caret during split navigation (aligned=false, pane=1) 
+    [chromium] › e2e/diff.spec.ts:287:5 › 10,000-line files › scattered edits, inserts and deletes (padded) 
+  33 passed (1.7m)
