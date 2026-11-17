@@ -1,0 +1,637 @@
+{
+  "label": "fix",
+  "dist": "fix-dist",
+  "browser": "156.0.8078.4",
+  "viewport": {
+    "width": 1400,
+    "height": 900
+  },
+  "warmup": 1,
+  "runs": 5,
+  "cases": [
+    {
+      "id": "typingLarge",
+      "mode": "off",
+      "samples": [
+        {
+          "openMs": 77.20000000298023,
+          "p50Ms": 16.299999997019768,
+          "p95Ms": 27.600000001490116,
+          "maxMs": 43.100000001490116,
+          "missedFramePct": 45.09803921568628,
+          "styleLayoutMsPerKey": 5.822862745098039,
+          "scriptMsPerKey": 12.385156862745097,
+          "mainThreadMsPerKey": 20.870254901960784,
+          "tbtMs": 0,
+          "rainbowMarks": 0,
+          "rainbowMarksAfter": 0
+        },
+        {
+          "openMs": 75.60000000149012,
+          "p50Ms": 15.299999997019768,
+          "p95Ms": 26.5,
+          "maxMs": 42.100000001490116,
+          "missedFramePct": 41.1764705882353,
+          "styleLayoutMsPerKey": 5.700960784313724,
+          "scriptMsPerKey": 12.325588235294118,
+          "mainThreadMsPerKey": 20.791117647058822,
+          "tbtMs": 0,
+          "rainbowMarks": 0,
+          "rainbowMarksAfter": 0
+        },
+        {
+          "openMs": 79.5,
+          "p50Ms": 15.199999995529652,
+          "p95Ms": 26.700000002980232,
+          "maxMs": 37.79999999701977,
+          "missedFramePct": 43.13725490196079,
+          "styleLayoutMsPerKey": 5.6138627450980385,
+          "scriptMsPerKey": 12.409588235294118,
+          "mainThreadMsPerKey": 20.725450980392157,
+          "tbtMs": 0,
+          "rainbowMarks": 0,
+          "rainbowMarksAfter": 0
+        },
+        {
+          "openMs": 75.10000000149012,
+          "p50Ms": 15.400000005960464,
+          "p95Ms": 27.30000000447035,
+          "maxMs": 40.100000001490116,
+          "missedFramePct": 45.09803921568628,
+          "styleLayoutMsPerKey": 5.753607843137256,
+          "scriptMsPerKey": 12.446882352941175,
+          "mainThreadMsPerKey": 20.83356862745098,
+          "tbtMs": 0,
+          "rainbowMarks": 0,
+          "rainbowMarksAfter": 0
+        },
+        {
+          "openMs": 76.79999999701977,
+          "p50Ms": 15,
+          "p95Ms": 27.399999998509884,
+          "maxMs": 42.5,
+          "missedFramePct": 45.09803921568628,
+          "styleLayoutMsPerKey": 5.835686274509803,
+          "scriptMsPerKey": 12.325627450980392,
+          "mainThreadMsPerKey": 20.82468627450981,
+          "tbtMs": 0,
+          "rainbowMarks": 0,
+          "rainbowMarksAfter": 0
+        }
+      ],
+      "median": {
+        "openMs": 76.79999999701977,
+        "p50Ms": 15.299999997019768,
+        "p95Ms": 27.30000000447035,
+        "maxMs": 42.100000001490116,
+        "missedFramePct": 45.09803921568628,
+        "styleLayoutMsPerKey": 5.753607843137256,
+        "scriptMsPerKey": 12.385156862745097,
+        "mainThreadMsPerKey": 20.82468627450981,
+        "tbtMs": 0,
+        "rainbowMarks": 0,
+        "rainbowMarksAfter": 0
+      }
+    },
+    {
+      "id": "scroll",
+      "mode": "off",
+      "samples": [
+        {
+          "frameP95Ms": 16.800000000000182,
+          "frameMaxMs": 33.40000000000009,
+          "droppedFramesPct": 3.9660056657223794,
+          "tbtMs": 0,
+          "flingFrameP95Ms": 16.800000000000182,
+          "flingDroppedFramesPct": 3.4246575342465753,
+          "jumpMs": 8.5,
+          "rainbowMarks": 0,
+          "rainbowMarksAfter": 0
+        },
+        {
+          "frameP95Ms": 16.800000000000182,
+          "frameMaxMs": 33.400000000000546,
+          "droppedFramesPct": 3.7037037037037037,
+          "tbtMs": 0,
+          "flingFrameP95Ms": 16.799999999999272,
+          "flingDroppedFramesPct": 0.7299270072992701,
+          "jumpMs": 8.600000001490116,
+          "rainbowMarks": 0,
+          "rainbowMarksAfter": 0
+        },
+        {
+          "frameP95Ms": 16.800000000000182,
+          "frameMaxMs": 33.400000000000546,
+          "droppedFramesPct": 3.988603988603989,
+          "tbtMs": 0,
+          "flingFrameP95Ms": 16.80000000000109,
+          "flingDroppedFramesPct": 1.4388489208633093,
+          "jumpMs": 8.200000002980232,
+          "rainbowMarks": 0,
+          "rainbowMarksAfter": 0
+        },
+        {
+          "frameP95Ms": 16.800000000000182,
+          "frameMaxMs": 33.400000000000546,
+          "droppedFramesPct": 3.9660056657223794,
+          "tbtMs": 0,
+          "flingFrameP95Ms": 16.800000000000182,
+          "flingDroppedFramesPct": 2.797202797202797,
+          "jumpMs": 8.399999998509884,
+          "rainbowMarks": 0,
+          "rainbowMarksAfter": 0
+        },
+        {
+          "frameP95Ms": 16.800000000000182,
+          "frameMaxMs": 33.5,
+          "droppedFramesPct": 3.988603988603989,
+          "tbtMs": 0,
+          "flingFrameP95Ms": 16.700000000000728,
+          "flingDroppedFramesPct": 1.4388489208633093,
+          "jumpMs": 9.100000001490116,
+          "rainbowMarks": 0,
+          "rainbowMarksAfter": 0
+        }
+      ],
+      "median": {
+        "frameP95Ms": 16.800000000000182,
+        "frameMaxMs": 33.400000000000546,
+        "droppedFramesPct": 3.9660056657223794,
+        "tbtMs": 0,
+        "flingFrameP95Ms": 16.800000000000182,
+        "flingDroppedFramesPct": 1.4388489208633093,
+        "jumpMs": 8.5,
+        "rainbowMarks": 0,
+        "rainbowMarksAfter": 0
+      }
+    },
+    {
+      "id": "minified200k",
+      "mode": "off",
+      "samples": [
+        {
+          "openMs": 107.5,
+          "p50Ms": 17,
+          "p95Ms": 19.600000001490116,
+          "maxMs": 44.100000001490116,
+          "missedFramePct": 15.384615384615385,
+          "mainThreadMsPerKey": 23.344923076923074,
+          "scrollFrameP95Ms": 16.700000000000728,
+          "scrollDroppedFramesPct": 0,
+          "rainbowMarks": 0,
+          "rainbowMarksAfter": 0
+        },
+        {
+          "openMs": 154.89999999850988,
+          "p50Ms": 17.100000001490116,
+          "p95Ms": 20.30000000447035,
+          "maxMs": 34.70000000298023,
+          "missedFramePct": 23.076923076923077,
+          "mainThreadMsPerKey": 23.351692307692304,
+          "scrollFrameP95Ms": 16.700000000000728,
+          "scrollDroppedFramesPct": 0,
+          "rainbowMarks": 0,
+          "rainbowMarksAfter": 0
+        },
+        {
+          "openMs": 154.89999999850988,
+          "p50Ms": 17.399999998509884,
+          "p95Ms": 19.19999999552965,
+          "maxMs": 44.5,
+          "missedFramePct": 15.384615384615385,
+          "mainThreadMsPerKey": 23.63823076923077,
+          "scrollFrameP95Ms": 16.699999999999818,
+          "scrollDroppedFramesPct": 0,
+          "rainbowMarks": 0,
+          "rainbowMarksAfter": 0
+        },
+        {
+          "openMs": 155.39999999850988,
+          "p50Ms": 17.700000002980232,
+          "p95Ms": 19.19999999552965,
+          "maxMs": 44.29999999701977,
+          "missedFramePct": 30.76923076923077,
+          "mainThreadMsPerKey": 23.773000000000003,
+          "scrollFrameP95Ms": 16.800000000000182,
+          "scrollDroppedFramesPct": 0,
+          "rainbowMarks": 0,
+          "rainbowMarksAfter": 0
+        },
+        {
+          "openMs": 156.10000000149012,
+          "p50Ms": 17.100000001490116,
+          "p95Ms": 18.799999997019768,
+          "maxMs": 37.20000000298023,
+          "missedFramePct": 7.6923076923076925,
+          "mainThreadMsPerKey": 23.20319230769231,
+          "scrollFrameP95Ms": 16.800000000000182,
+          "scrollDroppedFramesPct": 0,
+          "rainbowMarks": 0,
+          "rainbowMarksAfter": 0
+        }
+      ],
+      "median": {
+        "openMs": 154.89999999850988,
+        "p50Ms": 17.100000001490116,
+        "p95Ms": 19.19999999552965,
+        "maxMs": 44.100000001490116,
+        "missedFramePct": 15.384615384615385,
+        "mainThreadMsPerKey": 23.351692307692304,
+        "scrollFrameP95Ms": 16.700000000000728,
+        "scrollDroppedFramesPct": 0,
+        "rainbowMarks": 0,
+        "rainbowMarksAfter": 0
+      }
+    },
+    {
+      "id": "minified1m",
+      "mode": "off",
+      "samples": [
+        {
+          "openMs": 154.29999999701977,
+          "p50Ms": 21.700000002980232,
+          "p95Ms": 23.200000002980232,
+          "maxMs": 40.5,
+          "missedFramePct": 88.46153846153847,
+          "mainThreadMsPerKey": 32.20611538461539,
+          "scrollFrameP95Ms": 16.799999999999272,
+          "scrollDroppedFramesPct": 1.639344262295082,
+          "rainbowMarks": 0,
+          "rainbowMarksAfter": 0
+        },
+        {
+          "openMs": 99.5,
+          "p50Ms": 21.599999994039536,
+          "p95Ms": 22.799999997019768,
+          "maxMs": 49.79999999701977,
+          "missedFramePct": 96.15384615384616,
+          "mainThreadMsPerKey": 32.68480769230769,
+          "scrollFrameP95Ms": 16.700000000000728,
+          "scrollDroppedFramesPct": 1.639344262295082,
+          "rainbowMarks": 0,
+          "rainbowMarksAfter": 0
+        },
+        {
+          "openMs": 149.39999999850988,
+          "p50Ms": 21.5,
+          "p95Ms": 23.19999999552965,
+          "maxMs": 43,
+          "missedFramePct": 96.15384615384616,
+          "mainThreadMsPerKey": 32.48053846153847,
+          "scrollFrameP95Ms": 16.800000000000182,
+          "scrollDroppedFramesPct": 1.639344262295082,
+          "rainbowMarks": 0,
+          "rainbowMarksAfter": 0
+        },
+        {
+          "openMs": 100.79999999701977,
+          "p50Ms": 21.80000000447035,
+          "p95Ms": 23.399999998509884,
+          "maxMs": 50.600000001490116,
+          "missedFramePct": 100,
+          "mainThreadMsPerKey": 33.055807692307695,
+          "scrollFrameP95Ms": 16.800000000000182,
+          "scrollDroppedFramesPct": 3.278688524590164,
+          "rainbowMarks": 0,
+          "rainbowMarksAfter": 0
+        },
+        {
+          "openMs": 152.80000000447035,
+          "p50Ms": 22.399999998509884,
+          "p95Ms": 25.200000002980232,
+          "maxMs": 54.600000001490116,
+          "missedFramePct": 100,
+          "mainThreadMsPerKey": 34.47100000000001,
+          "scrollFrameP95Ms": 16.700000000000728,
+          "scrollDroppedFramesPct": 1.639344262295082,
+          "rainbowMarks": 0,
+          "rainbowMarksAfter": 0
+        }
+      ],
+      "median": {
+        "openMs": 149.39999999850988,
+        "p50Ms": 21.700000002980232,
+        "p95Ms": 23.200000002980232,
+        "maxMs": 49.79999999701977,
+        "missedFramePct": 96.15384615384616,
+        "mainThreadMsPerKey": 32.68480769230769,
+        "scrollFrameP95Ms": 16.799999999999272,
+        "scrollDroppedFramesPct": 1.639344262295082,
+        "rainbowMarks": 0,
+        "rainbowMarksAfter": 0
+      }
+    },
+    {
+      "id": "typingLarge",
+      "mode": "brackets",
+      "samples": [
+        {
+          "openMs": 82.30000000447035,
+          "p50Ms": 16,
+          "p95Ms": 30.600000001490116,
+          "maxMs": 47.399999998509884,
+          "missedFramePct": 47.05882352941177,
+          "styleLayoutMsPerKey": 7.014392156862745,
+          "scriptMsPerKey": 12.368725490196079,
+          "mainThreadMsPerKey": 22.2218431372549,
+          "tbtMs": 0,
+          "rainbowMarks": 147,
+          "rainbowMarksAfter": 228
+        },
+        {
+          "openMs": 78.29999999701977,
+          "p50Ms": 16.399999998509884,
+          "p95Ms": 29.099999994039536,
+          "maxMs": 38.79999999701977,
+          "missedFramePct": 47.05882352941177,
+          "styleLayoutMsPerKey": 6.8254705882352935,
+          "scriptMsPerKey": 12.454823529411765,
+          "mainThreadMsPerKey": 22.17998039215686,
+          "tbtMs": 0,
+          "rainbowMarks": 147,
+          "rainbowMarksAfter": 228
+        },
+        {
+          "openMs": 76.79999999701977,
+          "p50Ms": 16.5,
+          "p95Ms": 29,
+          "maxMs": 43.80000000447035,
+          "missedFramePct": 47.05882352941177,
+          "styleLayoutMsPerKey": 6.883490196078433,
+          "scriptMsPerKey": 12.37821568627451,
+          "mainThreadMsPerKey": 22.102490196078435,
+          "tbtMs": 0,
+          "rainbowMarks": 147,
+          "rainbowMarksAfter": 228
+        },
+        {
+          "openMs": 76.60000000149012,
+          "p50Ms": 16,
+          "p95Ms": 29.600000001490116,
+          "maxMs": 46.70000000298023,
+          "missedFramePct": 47.05882352941177,
+          "styleLayoutMsPerKey": 7.0240784313725495,
+          "scriptMsPerKey": 12.319980392156864,
+          "mainThreadMsPerKey": 22.199450980392157,
+          "tbtMs": 0,
+          "rainbowMarks": 147,
+          "rainbowMarksAfter": 228
+        },
+        {
+          "openMs": 79,
+          "p50Ms": 15.700000002980232,
+          "p95Ms": 29,
+          "maxMs": 47,
+          "missedFramePct": 47.05882352941177,
+          "styleLayoutMsPerKey": 6.926607843137255,
+          "scriptMsPerKey": 12.369666666666665,
+          "mainThreadMsPerKey": 22.18570588235294,
+          "tbtMs": 0,
+          "rainbowMarks": 147,
+          "rainbowMarksAfter": 228
+        }
+      ],
+      "median": {
+        "openMs": 78.29999999701977,
+        "p50Ms": 16,
+        "p95Ms": 29.099999994039536,
+        "maxMs": 46.70000000298023,
+        "missedFramePct": 47.05882352941177,
+        "styleLayoutMsPerKey": 6.926607843137255,
+        "scriptMsPerKey": 12.369666666666665,
+        "mainThreadMsPerKey": 22.18570588235294,
+        "tbtMs": 0,
+        "rainbowMarks": 147,
+        "rainbowMarksAfter": 228
+      }
+    },
+    {
+      "id": "scroll",
+      "mode": "brackets",
+      "samples": [
+        {
+          "frameP95Ms": 16.800000000000182,
+          "frameMaxMs": 33.40000000000009,
+          "droppedFramesPct": 3.988603988603989,
+          "tbtMs": 0,
+          "flingFrameP95Ms": 33.20000000000073,
+          "flingDroppedFramesPct": 4.827586206896552,
+          "jumpMs": 10.399999998509884,
+          "rainbowMarks": 147,
+          "rainbowMarksAfter": 150
+        },
+        {
+          "frameP95Ms": 16.800000000000182,
+          "frameMaxMs": 49.899999999999864,
+          "droppedFramesPct": 4.2492917847025495,
+          "tbtMs": 0,
+          "flingFrameP95Ms": 16.80000000000109,
+          "flingDroppedFramesPct": 4.109589041095891,
+          "jumpMs": 11.299999997019768,
+          "rainbowMarks": 147,
+          "rainbowMarksAfter": 150
+        },
+        {
+          "frameP95Ms": 16.800000000000182,
+          "frameMaxMs": 33.40000000000009,
+          "droppedFramesPct": 3.988603988603989,
+          "tbtMs": 0,
+          "flingFrameP95Ms": 16.80000000000109,
+          "flingDroppedFramesPct": 4.137931034482759,
+          "jumpMs": 11.600000001490116,
+          "rainbowMarks": 147,
+          "rainbowMarksAfter": 150
+        },
+        {
+          "frameP95Ms": 16.800000000000182,
+          "frameMaxMs": 33.400000000000546,
+          "droppedFramesPct": 3.988603988603989,
+          "tbtMs": 0,
+          "flingFrameP95Ms": 16.80000000000109,
+          "flingDroppedFramesPct": 4.137931034482759,
+          "jumpMs": 9.299999997019768,
+          "rainbowMarks": 147,
+          "rainbowMarksAfter": 150
+        },
+        {
+          "frameP95Ms": 16.800000000000182,
+          "frameMaxMs": 50,
+          "droppedFramesPct": 4.237288135593221,
+          "tbtMs": 0,
+          "flingFrameP95Ms": 33.30000000000018,
+          "flingDroppedFramesPct": 7.189542483660131,
+          "jumpMs": 8.299999997019768,
+          "rainbowMarks": 147,
+          "rainbowMarksAfter": 150
+        }
+      ],
+      "median": {
+        "frameP95Ms": 16.800000000000182,
+        "frameMaxMs": 33.400000000000546,
+        "droppedFramesPct": 3.988603988603989,
+        "tbtMs": 0,
+        "flingFrameP95Ms": 16.80000000000109,
+        "flingDroppedFramesPct": 4.137931034482759,
+        "jumpMs": 10.399999998509884,
+        "rainbowMarks": 147,
+        "rainbowMarksAfter": 150
+      }
+    },
+    {
+      "id": "minified200k",
+      "mode": "brackets",
+      "samples": [
+        {
+          "openMs": 167,
+          "p50Ms": 17.700000002980232,
+          "p95Ms": 20.600000001490116,
+          "maxMs": 47.79999999701977,
+          "missedFramePct": 34.61538461538461,
+          "mainThreadMsPerKey": 24.662115384615383,
+          "scrollFrameP95Ms": 16.699999999999818,
+          "scrollDroppedFramesPct": 0,
+          "rainbowMarks": 8,
+          "rainbowMarksAfter": 14
+        },
+        {
+          "openMs": 153.90000000596046,
+          "p50Ms": 17.600000001490116,
+          "p95Ms": 19.299999997019768,
+          "maxMs": 44.79999999701977,
+          "missedFramePct": 23.076923076923077,
+          "mainThreadMsPerKey": 23.678,
+          "scrollFrameP95Ms": 16.700000000000728,
+          "scrollDroppedFramesPct": 0,
+          "rainbowMarks": 8,
+          "rainbowMarksAfter": 14
+        },
+        {
+          "openMs": 111.29999999701977,
+          "p50Ms": 17.200000002980232,
+          "p95Ms": 20,
+          "maxMs": 44.100000001490116,
+          "missedFramePct": 23.076923076923077,
+          "mainThreadMsPerKey": 23.648000000000003,
+          "scrollFrameP95Ms": 16.700000000000728,
+          "scrollDroppedFramesPct": 0,
+          "rainbowMarks": 8,
+          "rainbowMarksAfter": 14
+        },
+        {
+          "openMs": 161.19999999552965,
+          "p50Ms": 17.299999997019768,
+          "p95Ms": 19.899999998509884,
+          "maxMs": 42.69999999552965,
+          "missedFramePct": 11.538461538461538,
+          "mainThreadMsPerKey": 23.82773076923077,
+          "scrollFrameP95Ms": 16.799999999999272,
+          "scrollDroppedFramesPct": 0,
+          "rainbowMarks": 8,
+          "rainbowMarksAfter": 14
+        },
+        {
+          "openMs": 106.10000000149012,
+          "p50Ms": 17.299999997019768,
+          "p95Ms": 20.200000002980232,
+          "maxMs": 44.100000001490116,
+          "missedFramePct": 19.23076923076923,
+          "mainThreadMsPerKey": 23.63423076923078,
+          "scrollFrameP95Ms": 16.700000000000728,
+          "scrollDroppedFramesPct": 0,
+          "rainbowMarks": 8,
+          "rainbowMarksAfter": 14
+        }
+      ],
+      "median": {
+        "openMs": 153.90000000596046,
+        "p50Ms": 17.299999997019768,
+        "p95Ms": 20,
+        "maxMs": 44.100000001490116,
+        "missedFramePct": 23.076923076923077,
+        "mainThreadMsPerKey": 23.678,
+        "scrollFrameP95Ms": 16.700000000000728,
+        "scrollDroppedFramesPct": 0,
+        "rainbowMarks": 8,
+        "rainbowMarksAfter": 14
+      }
+    },
+    {
+      "id": "minified1m",
+      "mode": "brackets",
+      "samples": [
+        {
+          "openMs": 154.30000000447035,
+          "p50Ms": 21.899999998509884,
+          "p95Ms": 24.19999999552965,
+          "maxMs": 50.399999998509884,
+          "missedFramePct": 96.15384615384616,
+          "mainThreadMsPerKey": 33.143423076923085,
+          "scrollFrameP95Ms": 16.700000000000728,
+          "scrollDroppedFramesPct": 1.639344262295082,
+          "rainbowMarks": 8,
+          "rainbowMarksAfter": 14
+        },
+        {
+          "openMs": 153.80000000447035,
+          "p50Ms": 21.599999994039536,
+          "p95Ms": 23.399999998509884,
+          "maxMs": 48.79999999701977,
+          "missedFramePct": 100,
+          "mainThreadMsPerKey": 32.993,
+          "scrollFrameP95Ms": 16.800000000000182,
+          "scrollDroppedFramesPct": 1.639344262295082,
+          "rainbowMarks": 8,
+          "rainbowMarksAfter": 14
+        },
+        {
+          "openMs": 103.79999999701977,
+          "p50Ms": 21.5,
+          "p95Ms": 23,
+          "maxMs": 48.5,
+          "missedFramePct": 96.15384615384616,
+          "mainThreadMsPerKey": 32.68261538461539,
+          "scrollFrameP95Ms": 16.800000000000182,
+          "scrollDroppedFramesPct": 3.278688524590164,
+          "rainbowMarks": 8,
+          "rainbowMarksAfter": 14
+        },
+        {
+          "openMs": 154.89999999850988,
+          "p50Ms": 21.700000002980232,
+          "p95Ms": 23.299999997019768,
+          "maxMs": 51.20000000298023,
+          "missedFramePct": 88.46153846153847,
+          "mainThreadMsPerKey": 32.86899999999999,
+          "scrollFrameP95Ms": 16.800000000000182,
+          "scrollDroppedFramesPct": 1.639344262295082,
+          "rainbowMarks": 8,
+          "rainbowMarksAfter": 14
+        },
+        {
+          "openMs": 162.5,
+          "p50Ms": 21.399999998509884,
+          "p95Ms": 23,
+          "maxMs": 54.100000001490116,
+          "missedFramePct": 100,
+          "mainThreadMsPerKey": 33.14046153846153,
+          "scrollFrameP95Ms": 16.700000000000728,
+          "scrollDroppedFramesPct": 3.225806451612903,
+          "rainbowMarks": 8,
+          "rainbowMarksAfter": 14
+        }
+      ],
+      "median": {
+        "openMs": 154.30000000447035,
+        "p50Ms": 21.599999994039536,
+        "p95Ms": 23.299999997019768,
+        "maxMs": 50.399999998509884,
+        "missedFramePct": 96.15384615384616,
+        "mainThreadMsPerKey": 32.993,
+        "scrollFrameP95Ms": 16.800000000000182,
+        "scrollDroppedFramesPct": 1.639344262295082,
+        "rainbowMarks": 8,
+        "rainbowMarksAfter": 14
+      }
+    }
+  ]
+}

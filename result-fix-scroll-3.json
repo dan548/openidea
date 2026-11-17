@@ -1,0 +1,85 @@
+{
+  "label": "fix-scroll-3",
+  "dist": "fix-dist",
+  "browser": "156.0.8078.4",
+  "viewport": {
+    "width": 1400,
+    "height": 900
+  },
+  "warmup": 1,
+  "runs": 5,
+  "cases": [
+    {
+      "id": "scroll",
+      "mode": "brackets",
+      "samples": [
+        {
+          "frameP95Ms": 16.800000000000182,
+          "frameMaxMs": 33.400000000000546,
+          "droppedFramesPct": 3.409090909090909,
+          "tbtMs": 0,
+          "flingFrameP95Ms": 16.80000000000109,
+          "flingDroppedFramesPct": 2.158273381294964,
+          "jumpMs": 10.099999994039536,
+          "rainbowMarks": 147,
+          "rainbowMarksAfter": 150
+        },
+        {
+          "frameP95Ms": 16.800000000000182,
+          "frameMaxMs": 50,
+          "droppedFramesPct": 3.977272727272727,
+          "tbtMs": 0,
+          "flingFrameP95Ms": 33.30000000000018,
+          "flingDroppedFramesPct": 8.441558441558442,
+          "jumpMs": 7.0999999940395355,
+          "rainbowMarks": 147,
+          "rainbowMarksAfter": 150
+        },
+        {
+          "frameP95Ms": 16.800000000000182,
+          "frameMaxMs": 33.399999999999636,
+          "droppedFramesPct": 3.988603988603989,
+          "tbtMs": 0,
+          "flingFrameP95Ms": 16.799999999999272,
+          "flingDroppedFramesPct": 4.137931034482759,
+          "jumpMs": 8.199999995529652,
+          "rainbowMarks": 147,
+          "rainbowMarksAfter": 150
+        },
+        {
+          "frameP95Ms": 16.800000000000182,
+          "frameMaxMs": 33.40000000000009,
+          "droppedFramesPct": 3.988603988603989,
+          "tbtMs": 0,
+          "flingFrameP95Ms": 16.800000000000182,
+          "flingDroppedFramesPct": 4.137931034482759,
+          "jumpMs": 8.5,
+          "rainbowMarks": 147,
+          "rainbowMarksAfter": 150
+        },
+        {
+          "frameP95Ms": 16.800000000000182,
+          "frameMaxMs": 50,
+          "droppedFramesPct": 4.273504273504273,
+          "tbtMs": 0,
+          "flingFrameP95Ms": 33.30000000000018,
+          "flingDroppedFramesPct": 4.827586206896552,
+          "jumpMs": 8.700000002980232,
+          "rainbowMarks": 147,
+          "rainbowMarksAfter": 150
+        }
+      ],
+      "median": {
+        "frameP95Ms": 16.800000000000182,
+        "frameMaxMs": 33.400000000000546,
+        "droppedFramesPct": 3.988603988603989,
+        "tbtMs": 0,
+        "flingFrameP95Ms": 16.80000000000109,
+        "flingDroppedFramesPct": 4.137931034482759,
+        "jumpMs": 8.5,
+        "rainbowMarks": 147,
+        "rainbowMarksAfter": 150
+      }
+    }
+  ]
+}

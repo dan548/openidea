@@ -1,0 +1,62 @@
+[
+  {
+    "variant": "main",
+    "sourceLongLineLength": 208000,
+    "state": {
+      "path": "/dev/acme-api/src/minified.ts",
+      "length": 208075,
+      "lines": 4,
+      "head": 0,
+      "line": 0,
+      "word": "function"
+    },
+    "renderedLines": [
+      {
+        "length": 40,
+        "marks": 8
+      },
+      {
+        "length": 2130,
+        "marks": 983
+      },
+      {
+        "length": 32,
+        "marks": 6
+      },
+      {
+        "length": 0,
+        "marks": 0
+      }
+    ]
+  },
+  {
+    "variant": "fix",
+    "sourceLongLineLength": 208000,
+    "state": {
+      "path": "/dev/acme-api/src/minified.ts",
+      "length": 208075,
+      "lines": 4,
+      "head": 0,
+      "line": 0,
+      "word": "function"
+    },
+    "renderedLines": [
+      {
+        "length": 40,
+        "marks": 8
+      },
+      {
+        "length": 2130,
+        "marks": 0
+      },
+      {
+        "length": 32,
+        "marks": 6
+      },
+      {
+        "length": 0,
+        "marks": 0
+      }
+    ]
+  }
+]

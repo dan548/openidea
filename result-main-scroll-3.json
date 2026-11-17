@@ -1,0 +1,85 @@
+{
+  "label": "main-scroll-3",
+  "dist": "main-dist",
+  "browser": "156.0.8078.4",
+  "viewport": {
+    "width": 1400,
+    "height": 900
+  },
+  "warmup": 1,
+  "runs": 5,
+  "cases": [
+    {
+      "id": "scroll",
+      "mode": "brackets",
+      "samples": [
+        {
+          "frameP95Ms": 16.800000000000182,
+          "frameMaxMs": 33.400000000000546,
+          "droppedFramesPct": 3.7037037037037037,
+          "tbtMs": 0,
+          "flingFrameP95Ms": 16.80000000000109,
+          "flingDroppedFramesPct": 4.137931034482759,
+          "jumpMs": 13.100000001490116,
+          "rainbowMarks": 147,
+          "rainbowMarksAfter": 150
+        },
+        {
+          "frameP95Ms": 16.800000000000182,
+          "frameMaxMs": 49.90000000000009,
+          "droppedFramesPct": 3.9660056657223794,
+          "tbtMs": 0,
+          "flingFrameP95Ms": 16.80000000000109,
+          "flingDroppedFramesPct": 4.109589041095891,
+          "jumpMs": 9.600000001490116,
+          "rainbowMarks": 147,
+          "rainbowMarksAfter": 150
+        },
+        {
+          "frameP95Ms": 16.800000000000182,
+          "frameMaxMs": 50,
+          "droppedFramesPct": 3.988603988603989,
+          "tbtMs": 0,
+          "flingFrameP95Ms": 33.29999999999927,
+          "flingDroppedFramesPct": 7.8431372549019605,
+          "jumpMs": 11.199999995529652,
+          "rainbowMarks": 147,
+          "rainbowMarksAfter": 150
+        },
+        {
+          "frameP95Ms": 16.800000000000182,
+          "frameMaxMs": 33.399999999999636,
+          "droppedFramesPct": 3.68271954674221,
+          "tbtMs": 0,
+          "flingFrameP95Ms": 33.29999999999927,
+          "flingDroppedFramesPct": 7.792207792207792,
+          "jumpMs": 11.800000004470348,
+          "rainbowMarks": 147,
+          "rainbowMarksAfter": 150
+        },
+        {
+          "frameP95Ms": 16.800000000000182,
+          "frameMaxMs": 33.40000000000009,
+          "droppedFramesPct": 3.7037037037037037,
+          "tbtMs": 0,
+          "flingFrameP95Ms": 16.800000000000182,
+          "flingDroppedFramesPct": 3.5211267605633805,
+          "jumpMs": 11.399999998509884,
+          "rainbowMarks": 147,
+          "rainbowMarksAfter": 150
+        }
+      ],
+      "median": {
+        "frameP95Ms": 16.800000000000182,
+        "frameMaxMs": 33.400000000000546,
+        "droppedFramesPct": 3.7037037037037037,
+        "tbtMs": 0,
+        "flingFrameP95Ms": 16.80000000000109,
+        "flingDroppedFramesPct": 4.137931034482759,
+        "jumpMs": 11.399999998509884,
+        "rainbowMarks": 147,
+        "rainbowMarksAfter": 150
+      }
+    }
+  ]
+}
